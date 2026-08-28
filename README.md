@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Richard 👋
 
-<!--
-**richardlancs/richardlancs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Waterloo interested in software development, artificial intelligence, and building practical projects.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science @ University of Waterloo
+- 💻 Currently learning Python, Java, C/C++, Git, and GitHub
+- 🤖 Interested in AI, software engineering, and web development
+- 🛠️ Building projects to strengthen my development skills
+- 📚 Currently exploring computer science fundamentals and modern development tools
+
+## Technologies I'm Learning
+
+### Languages
+- Python
+- Java
+- C
+- C++
+- HTML / CSS / JavaScript
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Docker
+- CI/CD
+
+## Current Focus
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Git & GitHub
+- Full-Stack Development
+- AI / Machine Learning
+- Building real-world projects
+
+## Projects
+
+Projects coming soon.
+
+I'll be using this GitHub to document what I'm learning and showcase projects I build throughout university.
+
+## Connect With Me
+
+- LinkedIn: Coming soon
