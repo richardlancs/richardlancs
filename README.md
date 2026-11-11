@@ -1,46 +1,25 @@
-# Hi, I'm Richard 👋
+# Richard Lan
 
-I'm a **Computer Science student at the University of Waterloo** who enjoys building practical software—from interactive web apps to browser extensions and financial analysis tools.
+I'm a Computer Science (co-op) student at the University of Waterloo. I build web apps, browser extensions and small tools, mostly in TypeScript and Python. I'm looking for software engineering internship and co-op roles.
 
-I'm interested in **software engineering, full-stack development, and AI/ML**, and I'm continuing to build my skills through hands-on projects and computer science coursework.
+## Projects
 
-## 🚀 Featured Projects
+- [MarketLab](https://github.com/richardlancs/marketlab): a stock dashboard, paper-trading simulator and strategy backtester that runs on simulated prices, with a Next.js app and a Python (FastAPI) analytics service. [Live demo](https://marketlab-theta.vercel.app)
+- [Codebases](https://github.com/anshiwang8/codespaceleetcode): LeetCode-style puzzles set inside real open-source repositories, answered by clicking on the code in a browser IDE. I built it with one other developer and added puzzle browsing by difficulty and topic, 15 of the puzzles, the profile page, and themes and account settings. [Live demo](https://codespaceleetcode.vercel.app)
+- [Scrollganizer](https://github.com/richardlancs/Scrollganize): a Chrome side-panel extension, built with two teammates, that keeps a local library of your saved TikTok posts so you can search them by caption, creator, hashtag or collection. So far it has been tested against a mock of TikTok, not a live account.
+- [The Referral Rush](https://github.com/richardlancs/commst223project): a phone-based classroom game about referrals and hiring. Players join with a room code or QR code, and the host moves the game from one phase to the next.
 
-### [MarketLab](https://github.com/richardlancs/marketlab) · [Live Demo](https://marketlab-theta.vercel.app)
+## Currently working on
 
-A full-stack stock research and **paper-trading platform using simulated market prices**. It includes stock dashboards, screening, portfolio tracking, risk analysis, and strategy backtesting.
+- [Personal site](https://github.com/richardlancs/personal-site): my portfolio, set in a real-time 3D park built with Three.js. Recent work includes a Richmond Hill clock and weather display using Open-Meteo data, a phone layout, and night lighting with street lamps and lit building signs. [Live site](https://personal-site-flame-eight-52.vercel.app)
+- [GaragePoker](https://github.com/anshiwang8/garagepoker): a real-time poker app for private home games, started by another developer. I added the Tic-Tac-Toe Hold'em variant and have two open pull requests: a "red river" table option and a new game, Reverse Pineapple. [Live demo](https://garagepoker-flax.vercel.app)
+- Machine Learning intern at FlyRank AI since October 2026, working through its self-paced ML track toward a reviewed capstone project.
+- Algorithm practice on NeetCode ([submissions](https://github.com/richardlancs/neetcode-submissions)).
 
-- Built with **Next.js, React, TypeScript, Tailwind CSS, and Drizzle/SQLite (Turso)**.
-- Uses a separate **Python (FastAPI, pandas, NumPy)** service for backtesting and quantitative analytics.
-- Includes authentication, saved portfolios, automated tests, and a deployed web app.
+## Tools
 
-### [Scrollganizer](https://github.com/richardlancs/Scrollganize)
+TypeScript, JavaScript, Python, HTML/CSS, React, Next.js, Tailwind CSS, Three.js, FastAPI, pandas, NumPy, SQL, Git and Vercel.
 
-A **team-built Chrome extension** that helps users search and organize their saved TikTok posts without endlessly scrolling through Favorites.
+## Contact
 
-- Built with **TypeScript, Preact, WXT, and SQLite (WebAssembly)**.
-- Provides local-first search by caption, creator, hashtag, and collection.
-- Uses **Vitest and Playwright** for testing.
-
-### [Personal Portfolio](https://github.com/richardlancs/personal-site)
-
-My personal website, built with **Next.js, React, TypeScript, and Tailwind CSS**. Features include responsive layouts, light/dark themes, subtle animations, and accessibility-conscious interactions.
-
-## 🛠️ Technologies
-
-**Working with:** TypeScript, JavaScript, Python, HTML/CSS, React, Next.js, Tailwind CSS, FastAPI, pandas, NumPy, SQL, Git, GitHub, and Vercel.
-
-**Learning and exploring:** Java, C/C++, data structures and algorithms, object-oriented programming, Docker, CI/CD, and AI/machine learning.
-
-## 📚 Current Focus
-
-- Strengthening my foundations in algorithms, data structures, and software design.
-- Building and testing full-stack applications with real backend services.
-- Learning more about Python-based data analysis, backtesting, and machine learning.
-
-I'm always looking for opportunities to learn, collaborate, and grow as a developer.
-
-## 📫 Connect With Me
-
-- **LinkedIn:** [Richard Lan](https://www.linkedin.com/in/richard-lan-0312072a8)
-- **GitHub:** [@richardlancs](https://github.com/richardlancs)
+[LinkedIn](https://www.linkedin.com/in/richard-lan-0312072a8)
