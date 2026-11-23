@@ -1,26 +1,56 @@
-# Richard Lan
+# Hi, I'm Richard 👋
 
-I'm a Computer Science (co-op) student at the University of Waterloo. I build web apps, browser extensions and small tools, mostly in TypeScript and Python. I'm looking for software engineering internship and co-op roles.
+I'm a Computer Science (co-op) student at the **University of Waterloo** and a **Machine Learning Intern at FlyRank AI**. I like building things that see, listen and talk back: computer vision on a pair of glasses, LLM features that save a teammate a Slack message, and full-stack apps that are actually fun to use.
 
-## Projects
+I'm looking for **Summer 2027 software engineering and machine learning co-op roles**. If you're hiring, I'd love to chat.
 
-- [MarketLab](https://github.com/richardlancs/marketlab): a stock dashboard, paper-trading simulator and strategy backtester that runs on simulated prices, with a Next.js app and a Python (FastAPI) analytics service. [Live demo](https://marketlab-theta.vercel.app)
-- [Empyrean](https://github.com/richardlancs/Empyrean): camera glasses for blind and low-vision people that say what the wearer is pointing at, down to the brand when the label is readable. Built with three teammates at HackUMass XIV in Python (YOLO, MediaPipe, Grok vision, FastAPI). I built the Grok naming service and the Tiger Data history store, the shared message contracts, pointing detection, offline voices in five languages, and the dashboard, landing and How It Works pages.
-- [Codebases](https://github.com/anshiwang8/codespaceleetcode): LeetCode-style puzzles set inside real open-source repositories, answered by clicking on the code in a browser IDE. I built it with one other developer and added puzzle browsing by difficulty and topic, 15 of the puzzles, the profile page, and themes and account settings. [Live demo](https://codespaceleetcode.vercel.app)
-- [Scrollganizer](https://github.com/richardlancs/Scrollganize): a Chrome side-panel extension, built with two teammates, that keeps a local library of your saved TikTok posts so you can search them by caption, creator, hashtag or collection. So far it has been tested against a mock of TikTok, not a live account.
-- [The Referral Rush](https://github.com/richardlancs/commst223project): a phone-based classroom game about referrals and hiring. Players join with a room code or QR code, and the host moves the game from one phase to the next.
+## 🔭 What I've been building
 
-## Currently working on
+**[Empyrean](https://github.com/richardlancs/Empyrean)**: camera glasses for blind and low-vision people that tell you what you're touching, down to the brand when the label is readable. Built with three teammates at **HackUMass XIV**.
+- We fine-tuned a YOLO detector on our own hand-labeled 8-class dataset: **0.885 mAP@50**, about **6.4 ms** per image.
+- I wrote **122 of ~230 commits**: the Grok Vision naming service, the Tiger Data history store, the shared message contracts, pointing detection, offline voices in five languages, and the dashboard.
+- Python · YOLO · MediaPipe · Grok Vision · FastAPI · WebSockets
 
-- [Personal site](https://github.com/richardlancs/personal-site): my portfolio, set in a real-time 3D park built with Three.js. Recent work includes a Richmond Hill clock and weather display using Open-Meteo data, a phone layout, and night lighting with street lamps and lit building signs. [Live site](https://personal-site-flame-eight-52.vercel.app)
-- [GaragePoker](https://github.com/anshiwang8/garagepoker): a real-time poker app for private home games, started by another developer. I added the Tic-Tac-Toe Hold'em variant and have two open pull requests: a "red river" table option and a new game, Reverse Pineapple. [Live demo](https://garagepoker-flax.vercel.app)
-- Machine Learning intern at FlyRank AI since October 2026, working through its self-paced ML track toward a reviewed capstone project.
-- Algorithm practice on NeetCode ([submissions](https://github.com/richardlancs/neetcode-submissions)).
+**[Zipline](https://github.com/imyuvijain/team23-hack)**: an AI coworker from the **YC × ElevenLabs Hackathon**. Ask "what is my teammate doing?" and their own laptop answers, using a local LLM that summarizes their last 30 minutes of work.
+- I built the React web app: a live team board, duplicate-work alerts, the Claude ask flow and 60-second ElevenLabs voice catch-up calls.
+- React · TypeScript · WebSockets · Claude API · Ollama · ElevenLabs
 
-## Tools
+**[MarketLab](https://github.com/richardlancs/marketlab)**: a stock research, paper-trading and backtesting platform covering about 95 U.S. stocks.
+- A Python (FastAPI) analytics service backtests 6 strategies with transaction costs and walk-forward validation.
+- Next.js · TypeScript · FastAPI · pandas · Turso · [Live demo](https://marketlab-theta.vercel.app)
 
-TypeScript, JavaScript, Python, HTML/CSS, React, Next.js, Tailwind CSS, Three.js, FastAPI, pandas, NumPy, SQL, Git and Vercel.
+**[Codebases](https://github.com/anshiwang8/codespaceleetcode)**: LeetCode-style puzzles set inside real open-source code, with 136 puzzles across 21 repositories.
+- Built with one other developer. I added puzzle browsing by difficulty and topic, 15 of the puzzles, the profile page, and themes and account settings.
+- Next.js · TypeScript · PostgreSQL · Monaco · [Live demo](https://codespaceleetcode.vercel.app)
 
-## Contact
+**[GaragePoker](https://github.com/anshiwang8/garagepoker)**: real-time poker for private home games, with 8 game variants.
+- I added Tic-Tac-Toe Hold'em, plus a "red river" table option and Reverse Pineapple in open pull requests.
+- Next.js · Cloudflare Durable Objects · WebSockets · [Live demo](https://garagepoker-flax.vercel.app)
 
-[LinkedIn](https://www.linkedin.com/in/richard-lan-0312072a8)
+<details>
+<summary>More projects</summary>
+
+- **[Scrollganize](https://github.com/richardlancs/Scrollganize)**: a Chrome side-panel extension, built with two teammates, that keeps a local, searchable library of your saved TikTok posts. So far it's tested against a mock of TikTok, not a live account.
+- **[The Referral Rush](https://github.com/richardlancs/commst223project)**: a phone-based classroom game about referrals and hiring. Players join with a room code or QR code.
+- **[NeetCode submissions](https://github.com/richardlancs/neetcode-submissions)**: where I keep my algorithms practice honest.
+
+</details>
+
+## 🌳 Come say hi
+
+My portfolio isn't a page: it's a **[real-time 3D park](https://personal-site-flame-eight-52.vercel.app)** built with Three.js. It has street lamps that turn on at night and a clock showing the live weather in Richmond Hill. Take a walk around.
+
+## 🧰 Tools I reach for
+
+**ML & AI:** PyTorch · scikit-learn · TensorFlow/Keras · Hugging Face · OpenCV · YOLO · MediaPipe · LLM APIs · Ollama
+**Languages:** Python · TypeScript · JavaScript · Java · C · SQL · Racket
+**Web & backend:** React · Next.js · FastAPI · PostgreSQL · SQLite · WebSockets · Cloudflare Workers · Three.js
+**Shipping:** Git · GitHub Actions · Vercel · pytest · Vitest · Playwright
+
+## ⚡ Fun facts
+
+- I'm in Waterloo's Poker Studies Club, which might explain GaragePoker.
+- I'm also in the Quant Club, which definitely explains MarketLab.
+- At hackathons, I usually end up owning the dashboard. Empyrean and Zipline both prove it.
+
+📫 Find me on **[LinkedIn](https://www.linkedin.com/in/richard-lan-0312072a8)** or at my **[portfolio](https://personal-site-flame-eight-52.vercel.app)**.
