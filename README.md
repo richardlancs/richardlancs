@@ -1,4 +1,4 @@
-# Hi, I'm Richard 👋
+# Hi, I'm Richard 
 
 I'm a Computer Science (co-op) student at the **University of Waterloo** and a **Machine Learning Intern at FlyRank AI**. I like building things that see, listen and talk back: computer vision on a pair of glasses, LLM features that save a teammate a Slack message, and full-stack apps that are actually fun to use.
 
@@ -36,11 +36,11 @@ I'm looking for **Summer 2027 software engineering and machine learning co-op ro
 
 </details>
 
-## 🌳 Come say hi
+## Come say hi
 
 My portfolio isn't a page: it's a **[real-time 3D park](https://personal-site-flame-eight-52.vercel.app)** built with Three.js. It has street lamps that turn on at night and a clock showing the live weather in Richmond Hill. Take a walk around.
 
-## 🧰 Tools I reach for
+## Toolkit
 
 **ML & AI:** PyTorch · scikit-learn · TensorFlow/Keras · Hugging Face · OpenCV · YOLO · MediaPipe · LLM APIs · Ollama
 **Languages:** Python · TypeScript · JavaScript · Java · C · SQL · Racket
@@ -53,4 +53,4 @@ My portfolio isn't a page: it's a **[real-time 3D park](https://personal-site-fl
 - I'm also in the Quant Club, which definitely explains MarketLab.
 - At hackathons, I usually end up owning the dashboard. Empyrean and Zipline both prove it.
 
-📫 Find me on **[LinkedIn](https://www.linkedin.com/in/richard-lan-0312072a8)** or at my **[portfolio](https://personal-site-flame-eight-52.vercel.app)**.
+Find me on **[LinkedIn](https://www.linkedin.com/in/richard-lan-0312072a8)** or at my **[portfolio](https://personal-site-flame-eight-52.vercel.app)**.
